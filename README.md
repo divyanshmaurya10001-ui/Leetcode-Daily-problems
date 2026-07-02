@@ -13,4 +13,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0073-set-matrix-zeroes) |
+## Math
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0069-sqrtx) |
+## Binary Search
+|  |
+| ------- |
+| [0069-sqrtx](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0069-sqrtx) |
 <!---LeetCode Topics End-->
