@@ -20,6 +20,6 @@ public:
             }
         }
     
-       return vector<int>(st.begin(),st.end());
+       return vector<int>(st.begin(),st.end());//A set cannot be returned because the function expects a vector<int>.
     }
 };
