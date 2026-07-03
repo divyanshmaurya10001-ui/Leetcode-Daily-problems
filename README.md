@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0073-set-matrix-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0349-intersection-of-two-arrays) |
+| [1539-kth-missing-positive-number](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1539-kth-missing-positive-number) |
 ## Hash Table
 |  |
 | ------- |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0069-sqrtx](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0069-sqrtx) |
 | [0349-intersection-of-two-arrays](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0349-intersection-of-two-arrays) |
+| [1539-kth-missing-positive-number](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
 |  |
 | ------- |
