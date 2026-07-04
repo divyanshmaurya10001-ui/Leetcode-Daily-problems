@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0069-sqrtx) |
+| [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 ## Binary Search
 |  |
 | ------- |
