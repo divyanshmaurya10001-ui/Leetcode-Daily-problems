@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0344-reverse-string) |
+| [0520-detect-capital](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0520-detect-capital) |
 | [0709-to-lower-case](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0709-to-lower-case) |
 | [0917-reverse-only-letters](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1108-defanging-an-ip-address) |
