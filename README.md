@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0073-set-matrix-zeroes) |
+| [0242-valid-anagram](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0349-intersection-of-two-arrays) |
 ## Matrix
 |  |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0414-third-maximum-number) |
 ## Greedy
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0392-is-subsequence) |
 | [0520-detect-capital](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0520-detect-capital) |
