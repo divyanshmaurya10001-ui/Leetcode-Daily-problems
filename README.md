@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0011-container-with-most-water) |
 | [0014-longest-common-prefix](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0014-longest-common-prefix) |
+| [0031-next-permutation](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0240-search-a-2d-matrix-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0011-container-with-most-water) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0349-intersection-of-two-arrays) |
