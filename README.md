@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0414-third-maximum-number) |
+| [0560-subarray-sum-equals-k](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0560-subarray-sum-equals-k) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1528-shuffle-string](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1539-kth-missing-positive-number) |
@@ -21,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0349-intersection-of-two-arrays) |
+| [0560-subarray-sum-equals-k](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0771-jewels-and-stones) |
 ## Matrix
 |  |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0014-longest-common-prefix) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
