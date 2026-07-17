@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0643-maximum-average-subarray-i) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1528-shuffle-string](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1539-kth-missing-positive-number) |
@@ -109,4 +110,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0560-subarray-sum-equals-k) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
