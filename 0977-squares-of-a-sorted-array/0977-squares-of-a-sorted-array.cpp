@@ -4,7 +4,7 @@ public:
         vector<int>arr;
         for (int i=0;i<nums.size();i++){
             int ans=1;
-            ans*=nums[i]*nums[i];
+            ans=pow(nums[i],2);
             arr.push_back(ans);
         }
         sort(arr.begin(),arr.end());
