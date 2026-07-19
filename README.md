@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0031-next-permutation) |
 | [0073-set-matrix-zeroes](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0074-search-a-2d-matrix) |
+| [0118-pascals-triangle](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0118-pascals-triangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0414-third-maximum-number) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0118-pascals-triangle) |
 | [0392-is-subsequence](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0392-is-subsequence) |
 | [0647-palindromic-substrings](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0647-palindromic-substrings) |
 ## String Matching
