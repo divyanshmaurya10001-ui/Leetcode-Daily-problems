@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0074-search-a-2d-matrix) |
 | [0118-pascals-triangle](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0118-pascals-triangle) |
+| [0229-majority-element-ii](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0240-search-a-2d-matrix-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0414-third-maximum-number) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0073-set-matrix-zeroes](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0073-set-matrix-zeroes) |
+| [0229-majority-element-ii](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0414-third-maximum-number) |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0643-maximum-average-subarray-i) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
