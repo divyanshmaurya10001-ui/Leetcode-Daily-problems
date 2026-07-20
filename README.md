@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0069-sqrtx) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1903-largest-odd-number-in-string](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1903-largest-odd-number-in-string) |
 ## Binary Search
 |  |
 | ------- |
@@ -84,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0011-container-with-most-water) |
 | [0680-valid-palindrome-ii](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0680-valid-palindrome-ii) |
+| [1903-largest-odd-number-in-string](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1903-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0917-reverse-only-letters) |
 | [1108-defanging-an-ip-address](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1528-shuffle-string) |
+| [1903-largest-odd-number-in-string](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
