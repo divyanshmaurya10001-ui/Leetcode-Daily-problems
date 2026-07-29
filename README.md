@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0771-jewels-and-stones) |
 | [0917-reverse-only-letters](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0917-reverse-only-letters) |
+| [1021-remove-outermost-parentheses](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1528-shuffle-string) |
 | [1903-largest-odd-number-in-string](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1903-largest-odd-number-in-string) |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0229-majority-element-ii) |
+## Stack
+|  |
+| ------- |
+| [1021-remove-outermost-parentheses](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1021-remove-outermost-parentheses) |
 <!---LeetCode Topics End-->
