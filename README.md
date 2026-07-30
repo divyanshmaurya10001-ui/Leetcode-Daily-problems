@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0069-sqrtx) |
+| [0412-fizz-buzz](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0412-fizz-buzz) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1903-largest-odd-number-in-string](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1903-largest-odd-number-in-string) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0392-is-subsequence) |
+| [0412-fizz-buzz](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0412-fizz-buzz) |
 | [0520-detect-capital](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0520-detect-capital) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0647-palindromic-substrings](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0647-palindromic-substrings) |
@@ -145,4 +147,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1021-remove-outermost-parentheses](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1021-remove-outermost-parentheses) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
