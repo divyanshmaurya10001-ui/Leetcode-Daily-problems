@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0977-squares-of-a-sorted-array](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0977-squares-of-a-sorted-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1480-running-sum-of-1d-array](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1539-kth-missing-positive-number) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/2016-maximum-difference-between-increasing-elements) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0560-subarray-sum-equals-k) |
+| [1480-running-sum-of-1d-array](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1480-running-sum-of-1d-array) |
 ## Sliding Window
 |  |
 | ------- |
