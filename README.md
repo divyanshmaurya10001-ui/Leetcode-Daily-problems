@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1480-running-sum-of-1d-array) |
 | [1528-shuffle-string](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1528-shuffle-string) |
 | [1539-kth-missing-positive-number](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1539-kth-missing-positive-number) |
+| [1672-richest-customer-wealth](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1672-richest-customer-wealth) |
 | [2016-maximum-difference-between-increasing-elements](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/2016-maximum-difference-between-increasing-elements) |
 ## Hash Table
 |  |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [1672-richest-customer-wealth](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1672-richest-customer-wealth) |
 ## Math
 |  |
 | ------- |
