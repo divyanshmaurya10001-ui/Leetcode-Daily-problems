@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0560-subarray-sum-equals-k](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0560-subarray-sum-equals-k) |
 | [0771-jewels-and-stones](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0771-jewels-and-stones) |
+| [1796-second-largest-digit-in-a-string](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1796-second-largest-digit-in-a-string) |
 ## Matrix
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1021-remove-outermost-parentheses](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1021-remove-outermost-parentheses) |
 | [1108-defanging-an-ip-address](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1108-defanging-an-ip-address) |
 | [1528-shuffle-string](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1528-shuffle-string) |
+| [1796-second-largest-digit-in-a-string](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1796-second-largest-digit-in-a-string) |
 | [1903-largest-odd-number-in-string](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1903-largest-odd-number-in-string) |
 ## Dynamic Programming
 |  |
