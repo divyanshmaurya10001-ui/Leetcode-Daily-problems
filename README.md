@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0414-third-maximum-number](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0414-third-maximum-number) |
 | [0560-subarray-sum-equals-k](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0560-subarray-sum-equals-k) |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0240-search-a-2d-matrix-ii) |
+| [0287-find-the-duplicate-number](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0349-intersection-of-two-arrays) |
 | [1539-kth-missing-positive-number](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/1539-kth-missing-positive-number) |
 ## Two Pointers
@@ -81,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0031-next-permutation) |
 | [0042-trapping-rain-water](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0042-trapping-rain-water) |
 | [0125-valid-palindrome](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0125-valid-palindrome) |
+| [0287-find-the-duplicate-number](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0392-is-subsequence) |
@@ -190,4 +193,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0042-trapping-rain-water) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0287-find-the-duplicate-number) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0287-find-the-duplicate-number) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
