@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0050-powx-n](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0070-climbing-stairs) |
 | [0172-factorial-trailing-zeroes](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0172-factorial-trailing-zeroes) |
 | [0412-fizz-buzz](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0412-fizz-buzz) |
 | [0509-fibonacci-number](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0509-fibonacci-number) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0053-maximum-subarray) |
+| [0070-climbing-stairs](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0118-pascals-triangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0392-is-subsequence) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/divyanshmaurya10001-ui/Leetcode-Daily-problems/tree/master/0509-fibonacci-number) |
 ## Monotonic Stack
 |  |
