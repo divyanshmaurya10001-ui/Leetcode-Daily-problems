@@ -11,20 +11,26 @@
  */
 class Solution {
 public:
-    bool isidentical(TreeNode*root,TreeNode*subroot){
-        if(root==NULL&&subroot==NULL)return true;
-
-        if(root==NULL || subroot==NULL)return false;
-
-        if(root->val!=subroot->val)return false;
-
-        return isidentical(root->left,subroot->left) && isidentical(root->right,subroot->right);
+    bool isSame(TreeNode* root, TreeNode* subRoot){
+        if(root==NULL && subRoot==NULL){
+            return true;
+        }
+        if(root==NULL || subRoot==NULL){
+            return false;
+        }
+        if(root->val!=subRoot->val){
+            return false;
+        }
+        return isSame(root->left,subRoot->left) && isSame(root->right,subRoot->right);
     }
-    bool isSubtree(TreeNode* root, TreeNode* subroot) {
-        if(root==NULL)return false;
-
-        if(isidentical(root,subroot))return true;
-
-        return isSubtree(root->left,subroot)||isSubtree(root->right,subroot);
+    bool isSubtree(TreeNode* root, TreeNode* subRoot) {
+        if(root==NULL){
+            return false;
+        }
+        if(isSame(root, subRoot)){
+            return true;
+        }
+        return isSubtree(root->left,subRoot) ||
+        isSubtree(root->right,subRoot);
     }
 };
